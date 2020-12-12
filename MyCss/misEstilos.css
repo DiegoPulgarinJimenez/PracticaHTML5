@@ -1,0 +1,133 @@
+.iconTam{
+width: 40px;
+}
+.otherTam{
+    width: 20px;
+}
+.imageTam{
+   width: 600px;
+   height: 307px;
+   margin-left: 12px;
+}
+.imageTam2{
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+}
+.aboutMod{
+    display:block;
+    margin:auto;
+}
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+ }
+ #headerVide{ 
+    background: url(../Draws/header/headVid.png);
+    height: 140px;
+ }
+ #headerAnime{
+     background-image: url(../Draws/header/headerAnime.png);
+     height: 140px;
+ }
+ #body{
+    background-color: rgb(170, 199, 121);
+ }
+ #mainContent{
+    background-color: rgb(170, 199, 121);
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#mainContent2{
+    background-color: rgb(181, 121, 199);
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#advertisingPane{
+    background-color: rgb(215, 226, 118);
+    float:left;
+    height: 3000px;
+}
+#advertisingPane2{
+    background-color: rgb(215, 226, 118);
+    float: right;
+    height: 3000px;
+}
+#advertisingPane3{
+    background-color: rgb(217, 118, 226);
+    float:left;
+    height: 3000px;
+}
+#advertisingPane4{
+    background-color: rgb(217, 118, 226);
+    float: right;
+    height: 3000px;
+}
+#body2{
+    background-color: rgb(181, 121, 199);
+}
+#headerToon{
+    background-image: url(../Draws/header/toons3.jpg);
+    height: 140px;
+}
+#body3{
+    background-color: gray;
+}
+#advertisingPane5{
+    background-color: lightgrey;
+    float:left;
+    height: 3000px;
+}
+#advertisingPane6{
+    background-color: lightgrey;
+    float: right;
+    height: 3000px;
+}
+#mainContent3{
+    background-color: grey;
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#headerLandscape{
+    background-image: url(../Draws/header/lansheader3.png);
+    height: 144px;
+}
+#advertisingPane7{
+    background-color: lightgrey;
+    float:left;
+    height: 3000px;
+}
+#advertisingPane8{
+    background-color: lightgrey;
+    float: right;
+    height: 3000px;
+}
+#body3{
+    background-color: grey;
+}
+#body4{
+    background-color: darkgray;
+}
+#mainContent4{
+    background-color: snow;
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#headerPaints{
+    background-image: url(../Draws/header/headerPaint.png);
+    height: 140px;
+}
+#mainContent5{
+    background-color: darkgray;
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
